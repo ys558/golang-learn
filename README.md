@@ -28,6 +28,6 @@ func main() {
 go fmt main.go
 ```
 
-### [2. 变量 常量]()
+### [2. 变量 常量](https://github.com/ys558/golang-learn/blob/master/02var%26const/Variable%26Contant.go)
 ---
 
