@@ -29,5 +29,10 @@ go fmt main.go
 ```
 
 ### [2. 变量 常量](https://github.com/ys558/golang-learn/blob/master/02var%26const/Variable%26Contant.go)
----
 
+### [3. 基本数据类型](https://github.com/ys558/golang-learn/blob/master/03-baseDataType/main.go)
+
+### [4. 基本数据类型的转换](https://github.com/ys558/golang-learn/blob/master/04-baseDatasConvert/main.go)
+### [5. 运算操作符]()
+---
+import时包名可以写为`import (. "fmt")`, 用.代替 包名fmt
